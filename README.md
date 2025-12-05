@@ -4,7 +4,7 @@ A lightweight and dependency-free JavaScript modal to preview images in a clean,
 No jQuery required. No CSS file required. Just plug & play.
 🚀 Features
 
-✔ Pure JavaScript (No Dependencies)
+✔ Pure JavaScript (No Dependencies) <br>
 ✔ Auto-injects required CSS (no styling needed)
 ✔ Click outside to close
 ✔ Animated fade + zoom effect

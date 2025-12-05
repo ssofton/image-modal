@@ -16,7 +16,7 @@ Add the script inside your HTML:
 <script src="https://cdn.jsdelivr.net/gh/ssofton/image-modal/imagemodal.js"></script>
 
 Option 1: "< p onclick="showImageModal('https://softondemand.co.in/home/attachment/logo/logo.png');">Click here </ p>" <br>
-Option 2: <img src="thumbnail.jpg" class="view-image" />
+Option 2: <!img src="thumbnail.jpg" class="view-image" />
 
 📍 Function Definition
 The modal automatically:

@@ -5,12 +5,12 @@ No jQuery required. No CSS file required. Just plug & play.
 🚀 Features
 
 ✔ Pure JavaScript (No Dependencies) <br>
-✔ Auto-injects required CSS (no styling needed)
-✔ Click outside to close
-✔ Animated fade + zoom effect
-✔ Clean & modern UI
-✔ Perfect for thumbnails or images preview
-📦 CDN Usage
+✔ Auto-injects required CSS (no styling needed) <br>
+✔ Click outside to close<br>
+✔ Animated fade + zoom effect<br>
+✔ Clean & modern UI<br>
+✔ Perfect for thumbnails or images preview <br>
+📦 CDN Usage <br>
 Add the script inside your HTML:
 
 <script src="https://cdn.jsdelivr.net/gh/ssofton/image-modal/imagemodal.js"></script>
